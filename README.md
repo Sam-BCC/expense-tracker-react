@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Source / Credit: https://www.youtube.com/watch?v=XuFDcZABiDQ
 
+Added component percentage (displays expense as a percentage of income)
+
+deployed on url: http://expense-tracker-app-sam.surge.sh/
+
 ## Available Scripts
 
 In the project directory, you can run:
