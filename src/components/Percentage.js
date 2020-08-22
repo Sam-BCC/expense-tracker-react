@@ -16,7 +16,7 @@ export const Percentage = () => {
   
   const ratio = ((expense/income)*100).toFixed(1);
 
-  const displayRatio = ratio > 0 ? ratio : '0';
+  const displayRatio = ratio < 0 || ratio === Infinity ? '0': ratio;
 
 
   return (
